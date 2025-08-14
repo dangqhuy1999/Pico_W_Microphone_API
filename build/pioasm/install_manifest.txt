@@ -1,0 +1,5 @@
+/root/project/AIAgentAPI/pico/pico-agentapi/build/pioasm-install/pioasm/pioasm
+/root/project/AIAgentAPI/pico/pico-agentapi/build/pioasm-install/pioasm/pioasmTargets.cmake
+/root/project/AIAgentAPI/pico/pico-agentapi/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/root/project/AIAgentAPI/pico/pico-agentapi/build/pioasm-install/pioasm/pioasmConfig.cmake
+/root/project/AIAgentAPI/pico/pico-agentapi/build/pioasm-install/pioasm/pioasmConfigVersion.cmake
