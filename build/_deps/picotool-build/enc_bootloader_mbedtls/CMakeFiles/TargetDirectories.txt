@@ -1,2 +1,0 @@
-/root/project/AIAgentAPI/pico/pico-agentapi/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/edit_cache.dir
-/root/project/AIAgentAPI/pico/pico-agentapi/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/rebuild_cache.dir

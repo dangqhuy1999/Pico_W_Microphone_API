@@ -1,7 +1,0 @@
-/root/project/AIAgentAPI/pico/pico-agentapi/build/pioasm/CMakeFiles/pioasm.dir
-/root/project/AIAgentAPI/pico/pico-agentapi/build/pioasm/CMakeFiles/edit_cache.dir
-/root/project/AIAgentAPI/pico/pico-agentapi/build/pioasm/CMakeFiles/rebuild_cache.dir
-/root/project/AIAgentAPI/pico/pico-agentapi/build/pioasm/CMakeFiles/list_install_components.dir
-/root/project/AIAgentAPI/pico/pico-agentapi/build/pioasm/CMakeFiles/install.dir
-/root/project/AIAgentAPI/pico/pico-agentapi/build/pioasm/CMakeFiles/install/local.dir
-/root/project/AIAgentAPI/pico/pico-agentapi/build/pioasm/CMakeFiles/install/strip.dir

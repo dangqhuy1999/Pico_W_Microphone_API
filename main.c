@@ -7,8 +7,8 @@
 #include "audio_app.h"
 
 // Thay đổi với thông tin Wi-Fi của bạn
-#define WIFI_SSID "Redmi Note 13Pro"
-#define WIFI_PASSWORD "1234567890"
+#define WIFI_SSID "WIFI_SSID"
+#define WIFI_PASSWORD "WIFI_PASSWORD"
 
 int main() {
     stdio_init_all();
